@@ -1,0 +1,8 @@
+*.xml
+*.mf
+*.class
+*.iml
+target
+build
+nbproject
+
